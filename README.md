@@ -18,6 +18,7 @@ Driver will be intimated about ‘accident prone zone’ based on the vehicle's 
 4. 5 MM LED : Red
 5. 5 MM LED : Yellow
 6. Breadboard (generic)
+7. Motion Sensor
 
 # Circuit Diagram
 ![image](https://github.com/Sushmoy-Nandi/ACCIDENT-DETECTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Circuit%20Diagram.png)
