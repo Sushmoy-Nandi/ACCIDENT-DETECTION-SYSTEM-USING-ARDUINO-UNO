@@ -12,6 +12,6 @@ Due to increasing number of vehicles on roads, accidents are also increasing, an
 6. Breadboard (generic
 
 # Circuit Diagram
-![image](
-)
+![image](https://github.com/Sushmoy-Nandi/ACCIDENT-DETECTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Circuit%20Diagram.png)
+
 
