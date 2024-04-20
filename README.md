@@ -19,6 +19,8 @@ Due to increasing number of vehicles on roads, accidents are also increasing, an
 2. Connect Red LED VCC Pin (Positive Pin) to Pin 9 of Arduino.
 3. Connect Yellow LED VCC Pin (Positive Pin) to Pin 8 of Arduino.
 4. Connect Green LED VCC Pin (Positive Pin) to Pin 7 of Arduino.
+   
+![image](https://github.com/Sushmoy-Nandi/ACCIDENT-DETECTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Setup%20Diagram.png)
 
 
   
