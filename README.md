@@ -25,6 +25,17 @@ Driver will be intimated about ‘accident prone zone’ based on the vehicle's 
 # Circuit Diagram
 ![image](https://github.com/Sushmoy-Nandi/ACCIDENT-DETECTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Circuit%20Diagram.png)
 
+#Operation
+### CASE 1:
+Whenever vehicle comes from right side then the IR sensor senses the vehicle and gives signal to arduino then 
+arduino makes Red LED will glow and buzzer rings on the opposite side of the U-turn in order to alert the 
+driver. This will reduce accidents on the curved roads.
+### CASE 2:
+Whenever vehicle comes from left side then the IR sensor senses the vehicle and gives signal to Arduinothen 
+Arduino makes Red LED will glow and buzzer rings on the opposite side of the U-turn in order to alert the 
+driver. This will reduce accidents on the curved road
+
+
 # These connections you have to make in the Arduino UNO (according to the code)
 1. Hook the GND pin (Negative Pin) of all led to Pin GND of Arduino.
 2. Connect Motion Sensor Pin (Positive Pin) to Pin 3 of Arduino.
