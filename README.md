@@ -25,7 +25,7 @@ Driver will be intimated about ‘accident prone zone’ based on the vehicle's 
 # Circuit Diagram
 ![image](https://github.com/Sushmoy-Nandi/ACCIDENT-DETECTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Circuit%20Diagram.png)
 
-#Operation
+# Operation
 ### CASE 1:
 Whenever vehicle comes from right side then the IR sensor senses the vehicle and gives signal to arduino then 
 arduino makes Red LED will glow and buzzer rings on the opposite side of the U-turn in order to alert the 
