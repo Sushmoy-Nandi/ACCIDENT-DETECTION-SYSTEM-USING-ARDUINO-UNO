@@ -30,7 +30,7 @@ Whenever vehicle comes from right side then the IR sensor senses the vehicle and
 arduino makes Red LED will glow and buzzer rings on the opposite side of the U-turn in order to alert the 
 driver. This will reduce accidents on the curved roads.
 ### CASE 2:
-Whenever vehicle comes from left side then the IR sensor senses the vehicle and gives signal to Arduinothen 
+Whenever vehicle comes from left side then the IR sensor senses the vehicle and gives signal to Arduino then 
 Arduino makes Red LED will glow and buzzer rings on the opposite side of the U-turn in order to alert the 
 driver. This will reduce accidents on the curved roads.
 
