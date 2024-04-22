@@ -1,8 +1,7 @@
 # ACCIDENT-PREVENTION-SYSTEM-USING-ARDUINO-UNO
 
 # Introduction
-There has been an alarming rise in road accidents, significantly U-Turn accidents, in Bangladesh over the past few years. The U-Turn remains one of the most dangerous driver strategy on roads worldwide. Paramedics respond daily to severe trauma from crashes that could have been prevented had it not been for the hasty decision to make a U-turn in traffic.
-
+There has been an alarming rise in road accidents, significantly U-Turn accidents, in Bangladesh over the past few years. The U-Turn remains one of the most dangerous driver strategy on roads worldwide.
 We all know U-turns are illegal most of the time - drivers are putting their own lives and the lives of other road users at serious risk when doing so at the wrong place and in the incorrect manner. In this section we want to focus on the U-Turn in an attempt to create awareness that could prevent many further crashes.
 Here is an automated Internet of Things (IoT) based accident prevention system.
 
