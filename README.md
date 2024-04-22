@@ -22,7 +22,7 @@ The U-turn accident detection system is innovative because it focuses on detecti
 7. 5 MM LED : Red
 
 # Circuit Diagram
-![FlowChart](https://github.com/Sushmoy-Nandi/ACCIDENT-DETECTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Circuit%20Diagram.png)
+![image](https://github.com/Sushmoy-Nandi/ACCIDENT-DETECTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Circuit%20Diagram.png)
 
 # Operation
 ### CASE 1:
@@ -36,6 +36,7 @@ driver. This will reduce accidents on the curved roads.
 
 # FlowChart
 ![image](https://github.com/Sushmoy-Nandi/U-TURN-ACCIDENT-PREVENTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Flow%20Chart.png)
+
 
 # These connections have to make in the Arduino UNO (according to the code)
 1. Hook the GND pin (Negative Pin) of all led to Pin GND of Arduino.
