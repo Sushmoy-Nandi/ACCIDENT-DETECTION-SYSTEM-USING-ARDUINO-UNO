@@ -43,6 +43,9 @@ driver. This will reduce accidents on the curved roads.
    
 ![image](https://github.com/Sushmoy-Nandi/ACCIDENT-DETECTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Setup%20Diagram.png)
 
+# Future Work
+We can use an alarm system that can call the nearest police station and hospital in case of an accident and also alert them of the severity of the accident.
+
 
   
 
