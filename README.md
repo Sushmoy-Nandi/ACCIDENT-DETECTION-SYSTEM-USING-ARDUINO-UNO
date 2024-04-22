@@ -1,8 +1,7 @@
-# ACCIDENT-DETECTION-SYSTEM-USING-ARDUINO-UNO
+# ACCIDENT-PREVENTION-SYSTEM-USING-ARDUINO-UNO
 
 # Introduction
-There has been an alarming rise in road accidents, significantly highway accidents, in Bangladesh over the past few years. According to a study conducted by the Accident Research Centre (ARC) of BUET, road accidents claim on average 12,000 lives annually and lead to about 35,000 injuries. According to World Bank statistics, annual fatality rate from road accidents is found to be 85.6 fatalities per 10,000 vehicles. Hence, the roads in Bangladesh have become deadly!
-
+There has been an alarming rise in road accidents, significantly highway accidents, in Bangladesh over the past few years. Here is an automated Internet of Things (IoT) based accident prevention system.
 Following link contains demo videos of the system:-
 
 https://youtu.be/gZIjOLf5sgU?si=iz1AlpKQGb6OFWOe
