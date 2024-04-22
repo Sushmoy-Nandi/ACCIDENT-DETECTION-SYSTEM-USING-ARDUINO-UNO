@@ -23,6 +23,7 @@ The U-turn accident detection system is innovative because it focuses on detecti
 
 # Circuit Diagram
 ![image](https://github.com/Sushmoy-Nandi/ACCIDENT-DETECTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Circuit%20Diagram.png)
+![image](https://github.com/Sushmoy-Nandi/U-TURN-ACCIDENT-PREVENTION-SYSTEM-USING-ARDUINO-UNO/blob/main/code2flow_zvuif1.svg)
 
 # Operation
 ### CASE 1:
