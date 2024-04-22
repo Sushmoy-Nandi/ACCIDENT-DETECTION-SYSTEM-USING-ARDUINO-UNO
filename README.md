@@ -12,7 +12,7 @@ https://youtu.be/gZIjOLf5sgU?si=iz1AlpKQGb6OFWOe
 
 
 # Novelty of the System
-Driver will be intimated about ‘accident prone zone’ based on the vehicle's coordinates. Hence , the driver will become cautious while driving.
+The U-turn accident detection system is innovative because it focuses on detecting accidents specifically related to U-turn maneuvers. It employs unique algorithms and integrates with vehicle sensors to identify U-turn collisions accurately. Upon detection, it triggers immediate alerts to warn drivers and others, potentially suggesting preventive actions. The system also accumulates data for safety insights and has the potential to integrate with autonomous driving technology for enhanced accident prevention. Overall, it offers a targeted approach to improving road safety by addressing a specific type of accident. Hence , the driver will become cautious while driving.
 
 # Components Required
 1. Arduino Uno
