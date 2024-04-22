@@ -22,7 +22,7 @@ The U-turn accident detection system is innovative because it focuses on detecti
 7. 5 MM LED : Red
 
 # Circuit Diagram
-![image](https://github.com/Sushmoy-Nandi/ACCIDENT-DETECTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Circuit%20Diagram.png)
+![FlowChart](https://github.com/Sushmoy-Nandi/ACCIDENT-DETECTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Circuit%20Diagram.png)
 
 # Operation
 ### CASE 1:
