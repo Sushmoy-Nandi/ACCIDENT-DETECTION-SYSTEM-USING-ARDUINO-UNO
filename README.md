@@ -35,7 +35,8 @@ Arduino makes Red LED will glow and buzzer rings on the opposite side of the U-t
 driver. This will reduce accidents on the curved roads.
 
 # FlowChart
-![image](https://app.code2flow.com/mEuoM6OvsJ9L.png)
+![image](https://app.code2flow.com/mEuoM6OvsJ9L)
+
 
 
 # These connections have to make in the Arduino UNO (according to the code)
