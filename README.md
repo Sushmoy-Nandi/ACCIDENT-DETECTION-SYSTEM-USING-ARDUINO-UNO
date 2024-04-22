@@ -33,36 +33,6 @@ driver. This will reduce accidents on the curved roads.
 Whenever vehicle comes from left side then the IR sensor senses the vehicle and gives signal to Arduino then 
 Arduino makes Red LED will glow and buzzer rings on the opposite side of the U-turn in order to alert the 
 driver. This will reduce accidents on the curved roads.
-# Flowchart:
-[Start]
-    |
-    v
-[Setup Routine: Initialize pins and set initial LED states]
-    |
-    v
-[Enter Loop]
-    |
-    v
-[Read first motion sensor state]
-    |
-    |--[If motion detected]--->[Turn ON first green LED, Turn OFF first red LED]
-    |
-    |--[Else]--------------->[Keep first red LED ON, Turn OFF first green LED]
-    |
-    v
-[Read second motion sensor state]
-    |
-    |--[If motion detected]--->[Turn ON second green LED, Turn OFF second red LED]
-    |
-    |--[Else]--------------->[Keep second red LED ON, Turn OFF second green LED]
-    |
-    v
-[Repeat Loop]
-    |
-    v
-[End]
-
-
 
 # These connections have to make in the Arduino UNO (according to the code)
 1. Hook the GND pin (Negative Pin) of all led to Pin GND of Arduino.
