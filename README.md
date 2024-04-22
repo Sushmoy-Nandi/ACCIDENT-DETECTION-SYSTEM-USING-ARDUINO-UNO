@@ -18,9 +18,10 @@ Driver will be intimated about ‘accident prone zone’ based on the vehicle's 
 1. Arduino Uno
 2. Jumper Wires
 3. Motion Sensor
-4. Breadboard (generic)
-5. 5 MM LED : Green
-6. 5 MM LED : Red
+4. Buzzer
+5. Breadboard (generic)
+6. 5 MM LED : Green
+7. 5 MM LED : Red
 
 # Circuit Diagram
 ![image](https://github.com/Sushmoy-Nandi/ACCIDENT-DETECTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Circuit%20Diagram.png)
