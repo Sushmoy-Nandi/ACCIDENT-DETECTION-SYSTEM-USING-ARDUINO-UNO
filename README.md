@@ -53,6 +53,10 @@ This project was developed during the 3rd semester while pursing B.Sc. in CSE of
 # Future Work
 We can use an alarm system that can call the nearest police station and hospital in case of an accident and also alert them of the severity of the accident.
 
+# Contributors
+We'd like to give credit to the following contributors who have helped in the development of this project:
+
+
 
   
 
