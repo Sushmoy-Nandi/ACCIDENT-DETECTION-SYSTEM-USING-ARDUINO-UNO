@@ -51,7 +51,7 @@ driver. This will reduce accidents on the curved roads.
 # Project details
 This project was developed during the 3rd semester while pursing B.Sc. in CSE of 2024 as part of the CSE-2113: Digital Electronics and Pulse Techniques Lab Course conducted by the National Institute of Textile Engineering and Research-NITER, Constituent Institute of the University of Dhaka, Savar, Dhaka-1350
 # Future Work
-We can use an alarm system that can call the nearest police station and hospital in case of an accident and also alert them of the severity of the accident.
+We can use an alarm system and GPS technology to call the nearest police station and hospital in case of an accident and also alert them of the severity of the accident.
 
 # Contributors
 We'd like to give credit to the following contributors who have helped in the development of this project:
