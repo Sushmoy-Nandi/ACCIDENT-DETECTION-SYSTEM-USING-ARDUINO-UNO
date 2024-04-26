@@ -57,6 +57,8 @@ We'd like to give credit to the following contributors who have helped in the de
 
 ![image](https://github.com/Sushmoy-Nandi/U-TURN-ACCIDENT-PREVENTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Contributors.png)
 
+Last Updated 26 April, 2024
+
 
 
 
