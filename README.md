@@ -7,6 +7,9 @@ Here is an automated Internet of Things (IoT) based U-Turn accident prevention s
 Following link contains demo videos of the system:-
 
 https://youtu.be/gZIjOLf5sgU?si=iz1AlpKQGb6OFWOe
+[![Final video of fixing issues in your code in VS Code]
+(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=JLMbpiywVxQ)
 
 # Novelty of the System
 The U-turn accident detection system is innovative because it focuses on detecting accidents specifically related to U-turn maneuvers. It employs unique algorithms and integrates with vehicle sensors to identify U-turn collisions accurately. Upon detection, it triggers immediate alerts to warn drivers and others, potentially suggesting preventive actions. The system also accumulates data for safety insights and has the potential to integrate with autonomous driving technology for enhanced accident prevention. Overall, it offers a targeted approach to improving road safety by addressing a specific type of accident. Hence , the driver will become cautious while driving.
