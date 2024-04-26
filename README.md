@@ -7,6 +7,7 @@ Here is an automated Internet of Things (IoT) based U-Turn accident prevention s
 Following link contains demo videos of the system:-
 
 https://youtu.be/gZIjOLf5sgU?si=iz1AlpKQGb6OFWOe
+
 {% include youtube.html id="iz1AlpKQGb6OFWOe" %}
 
 # Novelty of the System
