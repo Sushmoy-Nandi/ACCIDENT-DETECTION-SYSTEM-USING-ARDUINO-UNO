@@ -8,10 +8,6 @@ Following link contains demo videos of the system:-
 
 https://youtu.be/gZIjOLf5sgU?si=iz1AlpKQGb6OFWOe
 
-{% include youtube.html id="gZIjOLf5sgU" %}
-<iframe width="917" height="516" src="https://www.youtube.com/embed/gZIjOLf5sgU" title="Accident Detection System by Using Arduino UNO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
 # Novelty of the System
 The U-turn accident detection system is innovative because it focuses on detecting accidents specifically related to U-turn maneuvers. It employs unique algorithms and integrates with vehicle sensors to identify U-turn collisions accurately. Upon detection, it triggers immediate alerts to warn drivers and others, potentially suggesting preventive actions. The system also accumulates data for safety insights and has the potential to integrate with autonomous driving technology for enhanced accident prevention. Overall, it offers a targeted approach to improving road safety by addressing a specific type of accident. Hence , the driver will become cautious while driving.
 
