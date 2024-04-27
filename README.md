@@ -15,10 +15,9 @@ The U-turn accident detection system is innovative because it focuses on detecti
 1. Arduino Uno
 2. Jumper Wires
 3. Motion Sensor
-4. Buzzer
-5. Breadboard (generic)
-6. 5 MM LED : Green
-7. 5 MM LED : Red
+4. Breadboard (generic)
+5. 5 MM LED : Green
+6. 5 MM LED : Red
 
 # Circuit Diagram
 ![image](https://github.com/Sushmoy-Nandi/ACCIDENT-DETECTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Circuit%20Diagram.png)
@@ -27,11 +26,11 @@ The U-turn accident detection system is innovative because it focuses on detecti
 # Operation
 ### CASE 1:
 Whenever vehicle comes from right side then the IR sensor senses the vehicle and gives signal to arduino then 
-arduino makes Red LED will glow and buzzer rings on the opposite side of the U-turn in order to alert the 
+arduino makes Red LED will glow to the opposite side of the U-turn in order to alert the 
 driver. This will reduce accidents on the curved roads.
 ### CASE 2:
 Whenever vehicle comes from left side then the IR sensor senses the vehicle and gives signal to Arduino then 
-Arduino makes Red LED will glow and buzzer rings on the opposite side of the U-turn in order to alert the 
+Arduino makes Red LED will glow to the opposite side of the U-turn in order to alert the 
 driver. This will reduce accidents on the curved roads.
 
 # FlowChart
@@ -57,7 +56,7 @@ We'd like to give credit to the following contributors who have helped in the de
 
 ![image](https://github.com/Sushmoy-Nandi/U-TURN-ACCIDENT-PREVENTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Contributors.png)
 
-Last Updated 26 April, 2024
+Last Updated 27 April, 2024
 
 
 
