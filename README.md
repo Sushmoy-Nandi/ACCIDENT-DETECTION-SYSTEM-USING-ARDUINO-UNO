@@ -44,7 +44,7 @@ driver. This will reduce accidents on the curved roads.
 3. Connect Red LED VCC Pin (Positive Pin) to Pin 7 of Arduino.
 4. Connect Green LED VCC Pin (Positive Pin) to Pin 8 of Arduino.
    
-![image](https://github.com/Sushmoy-Nandi/ACCIDENT-DETECTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Setup%20Diagram.png)
+
 
 # Project details
 This project was developed during the 3rd semester while pursing B.Sc. in CSE of 2024 as part of the CSE-2113: Digital Electronics and Pulse Techniques Lab Course conducted by the National Institute of Textile Engineering and Research-NITER, Constituent Institute of the University of Dhaka, Savar, Dhaka-1350
