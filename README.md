@@ -4,10 +4,6 @@
 There has been an alarming rise in road accidents, significantly U-Turn accidents, in Bangladesh over the past few years. The U-Turn remains one of the most dangerous driver strategy on roads worldwide. We all know U-turns are illegal most of the time - drivers are putting their own lives and the lives of other road users at serious risk when doing so at the wrong place and in the incorrect manner. In this section we want to focus on the U-Turn in an attempt to create awareness that could prevent many further crashes.
 Here is an automated Internet of Things (IoT) based U-Turn accident prevention system.
 
-Following link contains demo videos of the system:-
-
-https://youtu.be/gZIjOLf5sgU?si=iz1AlpKQGb6OFWOe
-
 # Novelty of the System
 The U-turn accident detection system is innovative because it focuses on detecting accidents specifically related to U-turn maneuvers. It employs unique algorithms and integrates with vehicle sensors to identify U-turn collisions accurately. Upon detection, it triggers immediate alerts to warn drivers and others, potentially suggesting preventive actions. The system also accumulates data for safety insights and has the potential to integrate with autonomous driving technology for enhanced accident prevention. Overall, it offers a targeted approach to improving road safety by addressing a specific type of accident. Hence , the driver will become cautious while driving.
 
@@ -44,7 +40,8 @@ driver. This will reduce accidents on the curved roads.
 3. Connect Red LED VCC Pin (Positive Pin) to Pin 7 of Arduino.
 4. Connect Green LED VCC Pin (Positive Pin) to Pin 8 of Arduino.
    
-
+![image](https://github.com/Sushmoy-Nandi/U-TURN-ACCIDENT-PREVENTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Picture%2001.jpg)
+![image](https://github.com/Sushmoy-Nandi/U-TURN-ACCIDENT-PREVENTION-SYSTEM-USING-ARDUINO-UNO/blob/main/Picture%2002.jpg)
 
 # Project details
 This project was developed during the 3rd semester while pursing B.Sc. in CSE of 2024 as part of the CSE-2113: Digital Electronics and Pulse Techniques Lab Course conducted by the National Institute of Textile Engineering and Research-NITER, Constituent Institute of the University of Dhaka, Savar, Dhaka-1350
